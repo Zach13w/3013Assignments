@@ -1,1 +1,1 @@
-[AVLTree1 (1).pdf](https://github.com/user-attachments/files/19095725/AVLTree1.1.pdf)
+![AVLTree1](https://github.com/user-attachments/assets/6662ffa6-67a4-468e-a2cb-e58be7733dd3)
